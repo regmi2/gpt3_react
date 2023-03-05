@@ -1,12 +1,12 @@
 import React from 'react'
+import './feature.css'
 
-const App = () => {
+const Feature = () => {
   return (
     <div>
-        <h1>GPT-3</h1>
       
     </div>
   )
 }
 
-export default App
+export default Feature
