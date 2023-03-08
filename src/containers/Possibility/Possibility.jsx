@@ -11,10 +11,8 @@ const Possibility = () => {
       </div>
 
       <div className='gpt3__possibility-content'>
-        <h4>Request Early Access to Get Started</h4>
-        <h1 className='gradient__text'> The possibilities are Beyond Our Imagination </h1>
+        <h1 className='gradient__text'> The Possibilities are Beyond Our Imagination </h1>
         <p> In the coming future, we could see GPT-3 implemented with VR and AR to launch us into a new era of tech possibilities.</p>
-        <h4>Request Early Access to Get Started</h4>
       </div>
     </div>
   )
